@@ -47,7 +47,7 @@ The codebase is organized into several modular ROS packages:
     ```
 2.  Clone this repository:
     ```bash
-    git clone [repository_url]
+    git clone https://github.com/sahilshingate01/Robotic_Manupalutor_FlipkartGrid5.0.git
     ```
 3.  Build the workspace:
     ```bash
